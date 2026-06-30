@@ -26,15 +26,17 @@ Based on the analysis, the following observations were made:
 - **Total Performance**: A total of 1,000 transactions were processed, with 2,514 units sold.
 
 ## Visualizations
+
 The analysis includes:
-- **Bar Chart**: Total Sales by Product Category (seen in 'Charts' sheet).
-![Sales By Category](Chart ScreenShots/Sales Category.png)
 
-- **Column Chart**: Total Quantity Sold by Product Category.
-![Quantity Sold by Product Category](Chart ScreenShots/Quantity Sold by Product Category.png)
+**Bar Chart: Total Sales by Product Category**
+![Sales By Category](Chart%20ScreenShots/Sales%20Category.png)
 
-- **Pie Chart**: Sales distribution by Gender.
-![Sales By Gender](Chart ScreenShots/Sales by Gender.png)
+**Column Chart: Total Quantity Sold by Product Category**
+![Quantity Sold by Product Category](Chart%20ScreenShots/Quantity%20Sold%20by%20Product%20Category.png)
+
+**Pie Chart: Sales distribution by Gender**
+![Sales By Gender](Chart%20ScreenShots/Sales%20by%20Gender.png)
 
 ---
 *Project completed as part of data analysis training.*
